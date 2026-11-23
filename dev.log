@@ -1,0 +1,18 @@
+$ vite --host 0.0.0.0
+
+  [32m[1mVITE[22m v8.3.4[39m  [2mready in [0m[1m3300[22m[2m[0m ms[22m
+
+  [32m➜[39m  [1mLocal[22m:   [36mhttp://localhost:[1m5173[22m/[39m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.56.1:[1m5173[22m/[39m    [2mEthernet 2[22m
+  [32m➜[39m  [1mNetwork[22m: [36mhttp://192.168.100.10:[1m5173[22m/[39m  [2mWi-Fi[22m
+  [32m➜[39m  [1mDebug[22m:   [2m[33mhttp://localhost:[1m5173[22m[2m/__debug[39m[22m
+[2m11:49:27 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [optimizer] bundling dependencies...
+[2m11:58:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/styles.css, /src/app/components/Preloader.tsx, /src/app/pages/Work.tsx, /src/app/components/Nav.tsx, /src/app/components/Footer.tsx, /src/app/pages/About.tsx, /src/app/pages/Home.tsx[22m
+[2m11:58:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [33mhmr invalidate [39m[2m/src/app/components/Nav.tsx[22m Could not Fast Refresh ("useLocalTime" export is incompatible). Learn more at https://github.com/vitejs/vite-plugin-react/tree/main/packages/plugin-react#consistent-components-exports
+[2m11:58:38 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/App.tsx, /src/app/components/Footer.tsx[22m
+[2m11:58:41 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mpage reload [39m[2mindex.html[22m
+[2m11:58:42 PM[22m [36m[1m[vite][22m[39m server restarted.
+[2m11:59:40 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/components/Nav.tsx, /src/app/components/Footer.tsx, /src/app/pages/Work.tsx, /src/app/pages/Home.tsx, /src/app/pages/About.tsx, /src/app/components/Preloader.tsx, /src/styles.css[22m
+[2m11:59:44 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/components/WorkCard.tsx, /src/styles.css[22m
+[2m11:59:50 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Work.tsx, /src/styles.css[22m
+[2m11:59:56 PM[22m [36m[1m[vite][22m[39m [90m[2m(client)[22m[39m [32mhmr update [39m[2m/src/app/pages/Work.tsx, /src/styles.css[22m
